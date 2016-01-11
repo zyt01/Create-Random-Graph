@@ -1,4 +1,4 @@
-# Create-Random-Graph
+# Create random graph with edge type
 - 创建运行结果文件夹  
 `mkdir file_edges`
 - 编译  
